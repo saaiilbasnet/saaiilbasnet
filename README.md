@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Saaiil Basnet.
-- 👀 I’m interested in Full Stack Development and UI/UX.
-- 🌱 I’m currently learning Javascript, Python and Figma.
-- 💞️ I’m looking to collaborate on basics and intermediate development projects.
 
 
 <!---
