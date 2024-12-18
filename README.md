@@ -2,7 +2,7 @@ Hi there! 👋 I'm Saaiil Basnet.
 
 🚀 About Me
 
-🌟 Who I am: I am a student of BCSIT (1st year) in Medhavi College and a quick learner.
+🌟 Who I am:Student of BCSIT (1st year) at Medhavi College.
 
 💼 What I do: Currently Learning Web Development and Ui/Ux.
 
