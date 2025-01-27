@@ -6,7 +6,7 @@ Hi there! 👋 I'm Saaiil Basnet.
 
 💼 What I do: Currently Learning Web Development and Ui/Ux.
 
-📚 Interests: AI, Cyber-Security and Data Science.
+📚 Interests: AI, Machine Learning and Data Science.
 
 🎯 Goals:  Build impactful tools, contribute to meaningful projects.
 
