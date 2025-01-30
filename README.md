@@ -12,4 +12,4 @@ Hi there! 👋 I'm Saaiil Basnet.
 
 🌍 Fun Fact: Plays Guitar but not willing to sing and loves watching anime.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&layout=compact&theme=dark&count_private=true)
