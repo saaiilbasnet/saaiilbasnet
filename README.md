@@ -11,5 +11,3 @@ Hi there! 👋 I'm Saaiil Basnet.
 🎯 Goals:  Build impactful tools, contribute to meaningful projects.
 
 🌍 Fun Fact: Plays Guitar but not willing to sing and loves watching anime.
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&layout=compact&theme=dark&count_private=true)
