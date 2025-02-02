@@ -12,4 +12,6 @@ Hi there! 👋 I'm Saaiil Basnet.
 
 🌍 Fun Fact: Plays Guitar but not willing to sing and loves watching anime.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,c++,python,php)](https://skillicons.dev)
