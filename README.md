@@ -14,4 +14,4 @@ Hi there! 👋 I'm Saaiil Basnet.
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,ts,figma,vscode,git,github,nodejs,expressjs,supabase,prisma,drizzle,postgresql,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,ts,figma,vscode,git,github,nodejs,expressjs,supabase,prisma,sequelize,postgresql,bootstrap)](https://skillicons.dev)
