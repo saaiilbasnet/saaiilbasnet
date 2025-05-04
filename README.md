@@ -13,3 +13,6 @@ Hi there! 👋 I'm Saaiil Basnet.
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,ts,figma,vscode,git,github,nodejs,expressjs,supabase,prisma,sequelize,postgresql,bootstrap)](https://skillicons.dev)
+
+## 📈 GitHub Stats
+![Saaiil GitHub stats](https://github-readme-stats.vercel.app/api?username=saaiilbasnet&show_icons=true&theme=radical)
