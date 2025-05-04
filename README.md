@@ -18,4 +18,4 @@ Hi there! 👋 I'm Saaiil Basnet.
 ![Saaiil GitHub stats](https://github-readme-stats.vercel.app/api?username=saaiilbasnet&show_icons=true&theme=radical)
 
 ## 📫 Connect With Me
-[![LinkedIn](www.linkedin.com/in/saaiil-basnet-07b617281)
+[![LinkedIn](https://www.linkedin.com/in/saaiil-basnet-07b617281)
