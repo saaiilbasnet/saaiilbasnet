@@ -15,7 +15,7 @@ Hi there! 👋 I'm Saaiil Basnet.
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,ts,figma,vscode,git,github,postman,react,redux,nodejs,expressjs,supabase,prisma,sequelize,postgresql,bootstrap,)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
-![Saaiil GitHub stats](https://github-readme-stats.vercel.app/api?username=saaiilbasnet&show_icons=true&theme=radical)
+![Saaiil GitHub stats](https://github-readme-stats.vercel.app/api?username=saaiilbasnet&show_icons=true&theme=radical) <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saaiilbasnet&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
