@@ -19,8 +19,6 @@ Hi there! 👋 I'm Saaiil Basnet.
 ![](https://nirzak-streak-stats.vercel.app/?user=saaiilbasnet&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=saaiilbasnet&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 📫 Connect With Me
