@@ -16,6 +16,12 @@ Hi there! 👋 I'm Saaiil Basnet.
 
 ## 📈 GitHub Stats
 ![Saaiil GitHub stats](https://github-readme-stats.vercel.app/api?username=saaiilbasnet&show_icons=true&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=saaiilbasnet&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=saaiilbasnet&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saaiil-basnet-07b617281)
