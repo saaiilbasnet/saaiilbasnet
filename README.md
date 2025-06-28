@@ -23,3 +23,4 @@ Hi there! 👋 I'm Saaiil Basnet.
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saaiil-basnet-07b617281)
+[![LinkedIn](https://img.shields.io/badge/Gmail-red?style=flat&logo=linkedin)](basnetssahil@gmail.com)
