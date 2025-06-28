@@ -10,7 +10,7 @@ Beyond development, I’m deeply interested in the **SaaS ecosystem**—how idea
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,ts,figma,vscode,git,github,postman,react,redux,nodejs,expressjs,supabase,prisma,sequelize,postgresql,bootstrap,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,ts,figma,vscode,git,github,postman,react,redux,nodejs,expressjs,nextjs,supabase,prisma,sequelize,postgresql,bootstrap,npm)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 ![Saaiil GitHub stats](https://github-readme-stats.vercel.app/api?username=saaiilbasnet&show_icons=true&theme=radical) <br/>
