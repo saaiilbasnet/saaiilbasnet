@@ -2,7 +2,7 @@
 
 Hey! I'm **Saaiil Basnet**, a curious and driven first-year BCSIT student at **Medhavi College**, currently immersed in the world of **full-stack web development**.
 
-I’m specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js), with a focus on building scalable, user-centric web applications. My learning approach is project-based—I believe in writing real code, solving real problems, and iterating fast.
+I’m specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js), with a focus on building scalable, user-centric web applications. My learning approach is project-based. I believe in writing real code, solving real problems, and iterating fast.
 
 Beyond development, I’m deeply interested in the **SaaS ecosystem**—how ideas turn into products, how products scale, and how technology can empower people and organizations. Whether it's automating workflows, enhancing user experiences, or crafting clean UIs, I’m excited about creating tools that matter.
 
