@@ -13,6 +13,7 @@ Beyond development, I’m deeply interested in the **SaaS ecosystem**—how idea
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,tailwind,c,php,ts,figma,vscode,git,github,postman,react,vite,redux,nodejs,expressjs,nestjs,nextjs,supabase,prisma,sequelize,postgresql,bootstrap,npm)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saaiilbasnet&show_icons=true&theme=radical" alt="Saaiil's GitHub stats" /><br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saaiilbasnet&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
