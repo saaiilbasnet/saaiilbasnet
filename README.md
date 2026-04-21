@@ -17,7 +17,10 @@ Beyond development, I’m deeply interested in the **SaaS ecosystem**—how idea
 ![](https://nirzak-streak-stats.vercel.app/?user=saaiilbasnet&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saaiilbasnet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
+## Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saaiilbasnet&label=Profile%20views&color=0e75b6&style=flat" alt="saaiilbasnet" />
+</p>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saaiil-basnet-07b617281)
