@@ -20,7 +20,7 @@
   <a href="https://github.com/saaiilbasnet">
     <img src="https://img.shields.io/badge/GitHub-saaiilbasnet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/saaiilbasnet?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -191,7 +191,7 @@ If you're working on an interesting project or want to collaborate, feel free to
   <a href="https://github.com/saaiilbasnet">
     <img src="https://img.shields.io/badge/GitHub-saaiilbasnet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/saaiilbasnet?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
